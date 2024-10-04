@@ -1,0 +1,91 @@
+[
+  {
+    "sn": 3111,
+    "user_id": "1",
+    "record_time": "Sat Sep 28 2024 12:52:50 GMT+0600 (Bangladesh Standard Time)",
+    "type": 1,
+    "state": 0,
+    "ip": "192.168.68.201"
+  },
+  {
+    "sn": 3112,
+    "user_id": "1",
+    "record_time": "Sat Sep 28 2024 13:38:12 GMT+0600 (Bangladesh Standard Time)",
+    "type": 1,
+    "state": 0,
+    "ip": "192.168.68.201"
+  },
+  {
+    "sn": 3113,
+    "user_id": "2",
+    "record_time": "Sat Sep 28 2024 13:47:34 GMT+0600 (Bangladesh Standard Time)",
+    "type": 1,
+    "state": 0,
+    "ip": "192.168.68.201"
+  },
+  {
+    "sn": 3114,
+    "user_id": "1",
+    "record_time": "Sat Sep 28 2024 14:20:16 GMT+0600 (Bangladesh Standard Time)",
+    "type": 1,
+    "state": 0,
+    "ip": "192.168.68.201"
+  },
+  {
+    "sn": 3115,
+    "user_id": "2",
+    "record_time": "Sat Sep 28 2024 14:42:19 GMT+0600 (Bangladesh Standard Time)",
+    "type": 1,
+    "state": 0,
+    "ip": "192.168.68.201"
+  },
+  {
+    "sn": 3116,
+    "user_id": "2",
+    "record_time": "Sat Sep 28 2026 14:42:19 GMT+0600 (Bangladesh Standard Time)",
+    "type": 1,
+    "state": 0,
+    "ip": "192.168.68.201"
+  },
+  {
+    "sn": 3117,
+    "user_id": "2",
+    "record_time": "Sat Sep 29 2024 14:42:19 GMT+0600 (Bangladesh Standard Time)",
+    "type": 1,
+    "state": 0,
+    "ip": "192.168.68.201"
+  },
+  {
+    "sn": 3118,
+    "user_id": "1",
+    "record_time": "Sat Sep 29 2024 14:42:19 GMT+0600 (Bangladesh Standard Time)",
+    "type": 1,
+    "state": 0,
+    "ip": "192.168.68.201"
+  },
+  {
+    "sn": 3119,
+    "user_id": "1",
+    "record_time": "Sat Sep 28 2024 15:20:16 GMT+0600 (Bangladesh Standard Time)",
+    "type": 1,
+    "state": 0,
+    "ip": "192.168.68.201"
+  },
+  {
+    "sn": 3119,
+    "user_id": "1",
+    "record_time": "Sat Sep 28 2024 19:20:16 GMT+0600 (Bangladesh Standard Time)",
+    "type": 1,
+    "state": 0,
+    "ip": "192.168.68.201"
+  },
+  {
+    "sn": 3119,
+    "user_id": "1",
+    "record_time": "Sat Sep 28 2024 19:21:16 GMT+0600 (Bangladesh Standard Time)",
+    "type": 1,
+    "state": 0,
+    "ip": "192.168.68.201"
+  }
+]
+
